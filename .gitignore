@@ -1,5 +1,5 @@
 .ipynb_checkpoints/
-attemps/
-models/
-datasets/
-pipelines/
+src/attemps/*
+src/models/*
+datasets/generated.csv
+src/pipelines/*
